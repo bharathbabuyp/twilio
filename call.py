@@ -2,8 +2,8 @@
 from twilio.rest import TwilioRestClient
 
 # Get these credentials from http://twilio.com/user/account
-account_sid = "AC52eada5c1aec227077f52a1dcb68e07d"
-auth_token = "f90acce48c7166facc9c0c989db0d403"
+account_sid = "AC52eada5c1aec227077f52a1dcb68e07dd"
+auth_token = "f90acce48c7166facc9c0c989db0d4033"
 client = TwilioRestClient(account_sid, auth_token)
 
 # Make the call
