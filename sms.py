@@ -1,8 +1,8 @@
 from twilio.rest import TwilioRestClient 
  
 # put your own credentials here 
-ACCOUNT_SID = "AC52eada5c1aec227077f52a1dcb68e07dd" 
-AUTH_TOKEN = "f90acce48c7166facc9c0c989db0d4033" 
+ACCOUNT_SID = "***" 
+AUTH_TOKEN = "***" 
  
 client = TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN) 
 class twil:
